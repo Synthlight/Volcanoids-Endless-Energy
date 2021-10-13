@@ -1,4 +1,7 @@
 {
     "LoadGroup": 0,
-    "Version": "1.0"
+    "Version": "1.0",
+    "UniqueModId": "Endless-Energy",
+    "Title": "Endless Energy",
+    "MultiplayerMode": 0
 }
